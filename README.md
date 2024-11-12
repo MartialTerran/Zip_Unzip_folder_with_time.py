@@ -1,6 +1,6 @@
 Python Script for CMD Console (Windows 10) that can GUI-select and zip-compress a folder with the 
 DATE appended to the resulting folderDATE.zip file; and (I added) the script can later can 
-De-compress that same folderDATE.zip (or any zipped folder?) into a new folder named folderDATE.   
+De-compress that same folderDATE.zip (or any zipped folder?) into a new folder named folderDATE.  (This name change by default helps to avoid accidentally overwriting an existing folder of the same name created on a prior date?}  
 Desirable Future Features would be: 
 1) Add option to select two uncompressed folders, and perform a contents-comparison of the two
 uncompressed folders, and report the similarities/differences to CMD console.
